@@ -32,7 +32,7 @@
   "dependencies": {
     "@discordjs/builders": "^1.4.0",
     "@discordjs/rest": "^1.4.0",
-    "axios": "^1.6.1",
+    "axios": "^1.6.2",
     "dayjs": "^1.11.7",
     "discord-api-types": "^0.37.31",
     "discord.js": "^14.7.1",
